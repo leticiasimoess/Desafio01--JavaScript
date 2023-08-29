@@ -1,7 +1,7 @@
 # Desafio01--JavaScript
 Desafio 01 - Estrutura de Dados, Funções e Condições
 
-----------------------------------------------------------------ESTRUTURA DE DADOS JAVASCRIPT-------------------------------------------------------------------------------
+----------------------------------------------------------------ESTRUTURA DE DADOS JAVASCRIPT-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Estrutura de Dados:
 São maneiras de organizar e armazenar informações em JavaScript. 
@@ -48,6 +48,7 @@ produzir resultados desejados para números. Para ordenar números corretamente,
 função de comparação como argumento para o método sort().
 
 ------------------------------------------------------FUNCTION JAVASCRIPT---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Funções: 
 São blocos de código reutilizáveis que realizam tarefas específicas. Funções podem
@@ -73,6 +74,7 @@ Você pode usar variáveis dentro dos parâmetros de uma função da mesma forma
 
 
 ------------------------------------------------------CONDIÇÕES JAVASCRIPT--------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Condições: 
 As condições permitem que você execute diferentes blocos de código com base em testes de expressões.
