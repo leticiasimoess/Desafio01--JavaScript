@@ -10,8 +10,8 @@ if (dia) {
 
 //02 - Crie um loop for() que exiba apenas números pares até o 20 no console.log()
 
-for (var i = 2; i <= 20; i += 2) {
-    console.log(i);
+for (let pares = 2; pares <= 20; pares += 2) {
+    console.log(pares);
 }
 
 //03 - crie uma função que exiba uma mensagem no console
