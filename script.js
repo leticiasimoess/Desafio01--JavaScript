@@ -92,7 +92,7 @@ console.log(meuArray);
  });
  console.log(numbers);
 
-//14 - Crie um objeto que receba ao menos três propriedades sobre você.
+//15 - Crie um objeto que receba ao menos três propriedades sobre você.
 var meuPerfil = {
     nome: "Leticia",
     idade: 22,
@@ -100,20 +100,20 @@ var meuPerfil = {
 };
 console.log(meuPerfil);
 
-//15 - Adicione uma nova propriedade sem alterar seu objeto inicial.
+//16 - Adicione uma nova propriedade sem alterar seu objeto inicial.
 meuPerfil["profissao"] = "Desenvolvedora front end";
 console.log(meuPerfil);
 
 
-//16 - Remova uma propriedade desse objeto.
+//17 - Remova uma propriedade desse objeto.
 delete meuPerfil.localizacao;
 console.log(meuPerfil);
 
-//17 - Mostre no console todas as propriedades desse objeto.
+//18 - Mostre no console todas as propriedades desse objeto.
 var propriedades = Object.keys(meuPerfil);
 console.log(propriedades);
 
-//18 - Crie um array  chamado "cadastro" contendo ao menos 5 objetos.
+//19 - Crie um array  chamado "cadastro" contendo ao menos 5 objetos.
 //Cada objeto deve receber as seguintes propriedades: nome,  idade,  telefone, amigos.
 //Na propriedade amigos, adicione ao menos 4 amigos.
 var cadastro = [
@@ -149,7 +149,7 @@ var cadastro = [
     }
 ];
 
-// 19 - Mostre no console o nome de um amigo de cada lista.
+// 20 - Mostre no console o nome de um amigo de cada lista.
 cadastro.forEach(function(pessoa) {
     console.log(pessoa.amigos[0]);// Isso mostrará o primeiro amigo de cada pessoa.
 
